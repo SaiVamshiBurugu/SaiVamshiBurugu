@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I’m a detail-driven tech professional passionate about data and AI. At **TCS**, I automate engineering workflows using **Python** and contribute to crash simulation automation for **General Motors**.
+I’m a detail-driven tech professional passionate about data and AI. At **TCS**, I automate engineering workflows using **Python** and contribute to crash simulation of automobiles.
 
 I’m interested in:
 - 🧠 Machine Learning Engineering
@@ -39,7 +39,7 @@ I’m interested in:
 
 ---
 
-## 🧪 Certifications
+## 📚 Certifications
 
 - 📘 **Machine Learning Specialization** – Coursera (DeepLearning.AI), 2025  
 - 🧠 **Neural Networks and Deep Learning** – Coursera (DeepLearning.AI), 2025  
@@ -71,8 +71,8 @@ I’m interested in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrDCooL&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDCooL&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ I’m interested in:
   <a href="https://www.linkedin.com/in/saivamshiburugu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/MrDCooL">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
   </a>
 </p>
@@ -95,4 +95,3 @@ I’m interested in:
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
-
