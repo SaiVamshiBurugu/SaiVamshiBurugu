@@ -47,18 +47,6 @@ I’m interested in:
 - ☁️ **Microsoft Certified: Azure AI Fundamentals (AI-900)** – Microsoft, 2024  
 - 🏫 **AI and ML Bootcamp** – IIT Kharagpur, 2024  
 
----
-
-## 💼 Experience
-
-**Tata Consultancy Services (TCS)**  
-*Assistant Machine Learning Engineer* | Hyderabad | Jan 2024 – Present
-
-- Automated crash analysis workflows using Python and ANSA.
-- Delivered productivity-boosting ML scripts for simulation processing.
-- Worked on client-side solutions for **General Motors**.
-
----
 
 ## 📂 Projects
 
