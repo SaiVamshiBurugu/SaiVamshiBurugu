@@ -71,7 +71,7 @@ I’m interested in:
   <a href="https://www.linkedin.com/in/saivamshiburugu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
   </a>
-  <a href="https://github.com/MrDCooL">
+  <a href="https://github.com/SaiVamshiBurugu">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
   </a>
 </p>
