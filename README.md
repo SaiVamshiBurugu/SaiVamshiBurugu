@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Vamshi Burugu</h1>
-<h3 align="center">🚀 Associate Machine Learning Engineer @ TCS | Aspiring Data Analyst </h3>
+<h3 align="center">🚀 Associate Machine Learning Engineer @ TCS | Aspiring Data Scientist </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
