@@ -52,7 +52,12 @@ I’m interested in:
 
 | Project Name | Description |
 |--------------|-------------|
-| **Shipping API** 📦 | RESTful API with role-based access for managing shipments (Customer, Employee, Supervisor). Built using Django REST Framework with custom permissions and token authentication. |
+| **Shipping API** 📦 | RESTful API with role-based access for managing shipments (Customer, Employee, Supervisor). Built using **Django REST Framework** with custom permissions and JWT authentication. |
+| **Crop Recommendation System** 🌾 | Machine Learning model integrated with **Streamlit** to predict the best crop to grow based on soil and environmental parameters (N, P, K, temperature, humidity, pH, rainfall). Achieved **99.39% accuracy** using a **Random Forest Classifier**. |
+| **CIFAR-10 Image Classification** 🧠 | Developed and trained a **CNN using TensorFlow/Keras**, achieving **83% validation accuracy** on CIFAR-10 image classification. Implemented **data augmentation** and **dropout** to reduce overfitting. |
+| **Penguins Data Analysis** 🐧 | Performed **EDA** and data visualisation on the Seaborn “penguins” dataset. Conducted **data cleaning, outlier detection,** and created **univariate, bivariate,** and **multivariate** visualisations using **Matplotlib** and **Seaborn**. |
+| **Anime Data Web Scraping & EDA** 🎥 | Web-scraped anime data and performed **exploratory data analysis** using **Python, Pandas, Matplotlib,** and **Seaborn**. Visualised genre trends, ratings, and release patterns to extract meaningful insights. |
+
 
 ---
 
